@@ -11,7 +11,7 @@ There are 3 main components composing the game engine:
 
 - Game Object
 - Game Loop
-- Sceme
+- Scene
 
 ### Game Object
 
